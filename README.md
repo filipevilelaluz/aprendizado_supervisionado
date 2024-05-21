@@ -1,7 +1,25 @@
-# Desenvolvimento de Máquinas Preditivas com KNN(K-Nearest Neighbors) e Redes Neurais para Previsão de Pagamento de Dívidas de Clientes
+# Utilização de aprendizado supervisionado para desenvolvimento de Máquinas Preditivas com KNN(K-Nearest Neighbors) e Redes Neurais para Previsão de Pagamento de Dívidas de Clientes
 
-Prever se um cliente irá pagar uma divida com base em dados pessoais e dados relacionados ao relacionamento do cliente com uma insituição financeira, precisamos classificar os clientes em duas categorias
+### Materiais e Tecnologias
 
+- `Python`
+- `Colab`
+
+[Base de dados]([https://dados.gov.br/dataset/ocorrencias-aeronauticas-da-aviacao-civil-brasileira](https://raw.githubusercontent.com/andre-marcos-perez/ebac-course-utils/develop/dataset/credito.csv)) 
+
+
+### Etapas
+
+1. Carregamento dos dados e Análise Exploratória
+2. Pré-Processamento dos Dados
+3. Máquina Preditiva (KNN)
+4. Avaliação Métricas (KNN)
+5. Máquina Preditiva (Rede Neural)
+6. Avaliação Métricas (Rede Neural)
+7. Avaliação melhor modelo
+
+ ### Objetivo  
+Prever se um cliente irá pagar uma divida com base em dados pessoais e dados relacionados ao relacionamento do cliente com uma insituição financeira, precisamos classificar os clientes em duas categorias.
 
 *   1 = Inadimplentes
 *   2 = Adimplentes
