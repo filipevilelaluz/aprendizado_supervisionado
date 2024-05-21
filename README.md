@@ -4,6 +4,8 @@
 
 - `Python`
 - `Colab`
+- `Sklearn`
+- `Pandas`
 
 [Base de dados]([https://dados.gov.br/dataset/ocorrencias-aeronauticas-da-aviacao-civil-brasileira](https://raw.githubusercontent.com/andre-marcos-perez/ebac-course-utils/develop/dataset/credito.csv)) 
 
