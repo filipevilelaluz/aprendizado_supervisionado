@@ -27,6 +27,9 @@ Prever se um cliente irá pagar uma divida com base em dados pessoais e dados re
 *   1 = Inadimplentes
 *   2 = Adimplentes
 
+  ![image](https://github.com/filipevilelaluz/aprendizado_supervisionado/assets/74246172/3ecd1e6f-c0b2-4d8e-b34e-82fdf3e6af20)
+
+
 Cada cliente é representado no conjunto de dados por 15 atributos ou caracteristicas do cliente.
 
 **Atributos** (variáveis de entrada)
