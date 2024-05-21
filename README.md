@@ -1,4 +1,4 @@
-# 1º Problema de Negócio
+# Desenvolvimento de Máquinas Preditivas com KNN(K-Nearest Neighbors) e Redes Neurais para Previsão de Pagamento de Dívidas de Clientes
 
 Prever se um cliente irá pagar uma divida com base em dados pessoais e dados relacionados ao relacionamento do cliente com uma insituição financeira, precisamos classificar os clientes em duas categorias
 
