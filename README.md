@@ -39,4 +39,4 @@ Aqui está a lista das colunas enumeradas com uma breve descrição de cada uma:
 
 | Etapa         | Atividade |
 |  :----:   | ----------- |
-| ETAPA 1        |[Desenvolvimento do Projeto](codigo/Analise_Pagamento.ipynb) |
+| ETAPA 1        |[Desenvolvimento do Projeto](Analise_Pagamento.ipynb) |
