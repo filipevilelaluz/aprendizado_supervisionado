@@ -34,9 +34,8 @@ Aqui está a lista das colunas enumeradas com uma breve descrição de cada uma:
 1. **default**: Indicador se o cliente está inadimplente (0 para não inadimplente, 1 para inadimplente).
 
 
-# Repositório do projeto de machine learning da PUCMG.
+# Codigo em Python do desenvolvimento do  projeto
 
-Este repositório documenta o processo de arquitetura de dados em nuvem e aprendizado de máquina.
 
 | Etapa         | Atividade |
 |  :----:   | ----------- |
