@@ -6,6 +6,8 @@
 - `Colab`
 - `Sklearn`
 - `Pandas`
+
+  
 [Base de Dados](https://raw.githubusercontent.com/andre-marcos-perez/ebac-course-utils/develop/dataset/credito.csv) 
 
 
